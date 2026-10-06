@@ -1,0 +1,15 @@
+WorkLookup native v6.7
+PE32 x86 / GUI
+CLR Runtime Header: 0,0 (no .NET)
+C++/GCC support code: statically linked
+Windows system DLL imports:
+  ADVAPI32.dll
+  COMCTL32.dll
+  COMDLG32.DLL
+  GDI32.dll
+  KERNEL32.dll
+  msvcrt.dll
+  SHELL32.dll
+  USER32.dll
+
+No shipped DLLs or redistributable installer.

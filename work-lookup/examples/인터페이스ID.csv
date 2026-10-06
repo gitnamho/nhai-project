@@ -1,0 +1,6 @@
+﻿조회키,표시명,상세정보
+ACCT_INQR_REQUEST,계좌 조회 요청,
+ACCT_INQR_RESPONS,계좌 조회 응답,
+CUST_INFO_REQUEST,고객 정보 조회 요청,
+TRNF_EXEC_REQUEST,이체 실행 요청,
+TRNF_EXEC_RESPONS,이체 실행 응답,
